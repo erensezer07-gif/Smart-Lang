@@ -1,8 +1,16 @@
-# Smart-Lang
-AI-Powered Language Practice Application
+# 📱 Smart-Lang — Yapay Zeka Destekli İngilizce Pratik ve Kelime Oyunu (Android)
+
+![Java](https://img.shields.io/badge/Java-Android_SDK-ED8B00?logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Auth_&_Firestore-FFCA28?logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room-SQLite_Offline_Cache-4285F4?logo=sqlite&logoColor=white)
+![Architecture](https://img.shields.io/badge/Mimari-MVVM_&_LiveData-10B981)
 
 ## 🎯 Proje Amacı
-Kullanıcılara kelime ve cümle temelli oyunlarla dil öğrenmeyi eğlenceli hale getiren, istatistiksel ilerlemeyi gösteren ve rekabet unsuru ekleyen bir Android uygulaması geliştirmek.
+Kullanıcılara kelime ve cümle temelli oyunlarla dil öğrenmeyi eğlenceli hale getiren, istatistiksel ilerlemeyi gösteren, yapay zeka destekli kişisel çalışma programı hazırlayan ve arkadaş sıralamasıyla rekabet unsuru ekleyen bir Android uygulaması geliştirmek.
+
+## 📸 Uygulama Ekran Görüntüleri (GameActivity • AiChatFragment • LeaderboardFragment)
+
+![Smart-Lang Android Ekranları](screenshots/1_android_ekranlari.png)
 
 ---
 
